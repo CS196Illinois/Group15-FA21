@@ -6,3 +6,5 @@ Group Name: TEAM_NAME
 Team Members: skavuri2	dahyunl2	arulv2	anaghas2	iniyam2
 
 Project Manager: drshika2
+
+Project Description:
