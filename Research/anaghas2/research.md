@@ -23,7 +23,7 @@
     - [Tools provided by the U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/tools)
         - Group of tools that assist with analyzing and downloading climate data is gathered [here.](https://toolkit.climate.gov/tools?f%5B0%5D=field_tool_category%3A81)
 
-- Inspiration
+- Other (Inspiration)
     - [The Climate Explorer](https://crt-climate-explorer.nemac.org/)
         - Project (website) to check how climate conditions in the United States are projected to change over the coming decades.
         - Data shown for counties/county-equivalents for all 50 states and U.S. territories in the United States.
