@@ -1,3 +1,3 @@
 # protect database keys
 # ignore config
-config.py
+/config.py
